@@ -2,6 +2,7 @@
 published: true
 ---
 
+![Naamloos-2.png]({{site.baseurl}}/_posts/Naamloos-2.png)
 
 ## Test Post using prose.io
 
